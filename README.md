@@ -68,5 +68,4 @@ bill-tracker/
 - Spending trend chart over multiple months
 
 ## License
-
-Free to use for academic/educational purposes.
+educational purposes.
