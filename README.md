@@ -56,7 +56,8 @@ bill-tracker/
 
 ## Browser Notes
 
-- ed to run in the background; behavior varies by OS/browser.
+- The Notifications API requires the user to explicitly grant permission — this is requested the first time a subscription with reminders enabled is saved.
+- Notifications work best when the tab stays open or the browser is allowed to run in the background; behavior varies by OS/browser.
 
 ## Possible Extensions
 
