@@ -64,7 +64,7 @@ bill-tracker/
 - Recurring reminder checks via a Service Worker (so alerts fire even with the 
 - CSV export of subscription data
 - Multi-currency support
-- "Pause" a subscriwithout deleting it
+- "Pause" a subscription without deleting it
 - Spending trend chart over multiple months
 
 ## License
