@@ -61,7 +61,7 @@ bill-tracker/
 
 ## Possible Extensions
 
-- Recurring reminder checks via a Service Worker (so alerts fire even with the tab closed)
+- Recurring reminder checks via a Service Worker (so alerts fire even with the 
 - CSV export of subscription data
 - Multi-currency support
 - "Pause" a subscription without deleting it
