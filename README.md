@@ -69,3 +69,4 @@ bill-tracker/
 
 ## License
 
+Free to use for academic/educational purposes.
