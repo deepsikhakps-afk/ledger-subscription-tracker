@@ -60,7 +60,9 @@ bill-tracker/
 - Notifications work best when the tab stays open or the browser is allowed to run in the background; behavior varies by OS/browser.
 
 ## Possible Extensions
-t of subscription data
+
+- Recurring reminder checks via a Service Worker (so alerts fire even with the tab closed)
+- CSV export of subscription data
 - Multi-currency support
 - "Pause" a subscription without deleting it
 - Spending trend chart over multiple months
